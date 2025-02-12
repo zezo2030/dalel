@@ -1,0 +1,1 @@
+ C:\\Users\\zezo\\Desktop\\flutterPro\\dalel\\.dart_tool\\flutter_build\\6913242f2234db6db7e00da069d478e8\\native_assets.yaml: 
